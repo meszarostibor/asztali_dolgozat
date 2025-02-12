@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Suli\\2Ev\\ASZTALI_ALKALMAZASOK\\asztali_dolgozat\\celloveszetCLI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A33ADD-39FA-46EE-9BF8-06A4C696B735}|celloveszetCLI\\celloveszetCLI.csproj|d:\\suli\\2ev\\asztali_alkalmazasok\\asztali_dolgozat\\celloveszetcli\\celloveszetcli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A33ADD-39FA-46EE-9BF8-06A4C696B735}|celloveszetCLI\\celloveszetCLI.csproj|solutionrelative:celloveszetcli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A33ADD-39FA-46EE-9BF8-06A4C696B735}|celloveszetCLI\\celloveszetCLI.csproj|d:\\suli\\2ev\\asztali_alkalmazasok\\asztali_dolgozat\\celloveszetcli\\celloveszetcli\\cellovo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A33ADD-39FA-46EE-9BF8-06A4C696B735}|celloveszetCLI\\celloveszetCLI.csproj|solutionrelative:celloveszetcli\\cellovo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E37A9CA-5FCD-43C7-8AF9-CF6A64DC4E85}|celloveszetCLITests\\celloveszetCLITests.csproj|d:\\suli\\2ev\\asztali_alkalmazasok\\asztali_dolgozat\\celloveszetcli\\celloveszetclitests\\cellovotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E37A9CA-5FCD-43C7-8AF9-CF6A64DC4E85}|celloveszetCLITests\\celloveszetCLITests.csproj|solutionrelative:celloveszetclitests\\cellovotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CellovoTests.cs",
+              "DocumentMoniker": "D:\\Suli\\2Ev\\ASZTALI_ALKALMAZASOK\\asztali_dolgozat\\celloveszetCLI\\celloveszetCLITests\\CellovoTests.cs",
+              "RelativeDocumentMoniker": "celloveszetCLITests\\CellovoTests.cs",
+              "ToolTip": "D:\\Suli\\2Ev\\ASZTALI_ALKALMAZASOK\\asztali_dolgozat\\celloveszetCLI\\celloveszetCLITests\\CellovoTests.cs",
+              "RelativeToolTip": "celloveszetCLITests\\CellovoTests.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T16:27:59.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cellovo.cs",
+              "DocumentMoniker": "D:\\Suli\\2Ev\\ASZTALI_ALKALMAZASOK\\asztali_dolgozat\\celloveszetCLI\\celloveszetCLI\\Cellovo.cs",
+              "RelativeDocumentMoniker": "celloveszetCLI\\Cellovo.cs",
+              "ToolTip": "D:\\Suli\\2Ev\\ASZTALI_ALKALMAZASOK\\asztali_dolgozat\\celloveszetCLI\\celloveszetCLI\\Cellovo.cs",
+              "RelativeToolTip": "celloveszetCLI\\Cellovo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:37:02.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Suli\\2Ev\\ASZTALI_ALKALMAZASOK\\asztali_dolgozat\\celloveszetCLI\\celloveszetCLI\\Program.cs",
+              "RelativeDocumentMoniker": "celloveszetCLI\\Program.cs",
+              "ToolTip": "D:\\Suli\\2Ev\\ASZTALI_ALKALMAZASOK\\asztali_dolgozat\\celloveszetCLI\\celloveszetCLI\\Program.cs",
+              "RelativeToolTip": "celloveszetCLI\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvyoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:36:20.656Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

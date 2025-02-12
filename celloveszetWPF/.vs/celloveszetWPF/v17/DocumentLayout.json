@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Suli\\2Ev\\ASZTALI_ALKALMAZASOK\\asztali_dolgozat\\celloveszetWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{865C0CB4-91C1-4606-BCF6-EA16810E4541}|celloveszetWPF\\celloveszetWPF.csproj|d:\\suli\\2ev\\asztali_alkalmazasok\\asztali_dolgozat\\celloveszetwpf\\celloveszetwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{865C0CB4-91C1-4606-BCF6-EA16810E4541}|celloveszetWPF\\celloveszetWPF.csproj|solutionrelative:celloveszetwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{865C0CB4-91C1-4606-BCF6-EA16810E4541}|celloveszetWPF\\celloveszetWPF.csproj|d:\\suli\\2ev\\asztali_alkalmazasok\\asztali_dolgozat\\celloveszetwpf\\celloveszetwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{865C0CB4-91C1-4606-BCF6-EA16810E4541}|celloveszetWPF\\celloveszetWPF.csproj|solutionrelative:celloveszetwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{865C0CB4-91C1-4606-BCF6-EA16810E4541}|celloveszetWPF\\celloveszetWPF.csproj|d:\\suli\\2ev\\asztali_alkalmazasok\\asztali_dolgozat\\celloveszetwpf\\celloveszetwpf\\cellovo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{865C0CB4-91C1-4606-BCF6-EA16810E4541}|celloveszetWPF\\celloveszetWPF.csproj|solutionrelative:celloveszetwpf\\cellovo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cellovo.cs",
+              "DocumentMoniker": "D:\\Suli\\2Ev\\ASZTALI_ALKALMAZASOK\\asztali_dolgozat\\celloveszetWPF\\celloveszetWPF\\Cellovo.cs",
+              "RelativeDocumentMoniker": "celloveszetWPF\\Cellovo.cs",
+              "ToolTip": "D:\\Suli\\2Ev\\ASZTALI_ALKALMAZASOK\\asztali_dolgozat\\celloveszetWPF\\celloveszetWPF\\Cellovo.cs",
+              "RelativeToolTip": "celloveszetWPF\\Cellovo.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAYwDYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:00:18.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Suli\\2Ev\\ASZTALI_ALKALMAZASOK\\asztali_dolgozat\\celloveszetWPF\\celloveszetWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "celloveszetWPF\\MainWindow.xaml",
+              "ToolTip": "D:\\Suli\\2Ev\\ASZTALI_ALKALMAZASOK\\asztali_dolgozat\\celloveszetWPF\\celloveszetWPF\\MainWindow.xaml",
+              "RelativeToolTip": "celloveszetWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-12T16:49:20.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Suli\\2Ev\\ASZTALI_ALKALMAZASOK\\asztali_dolgozat\\celloveszetWPF\\celloveszetWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "celloveszetWPF\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Suli\\2Ev\\ASZTALI_ALKALMAZASOK\\asztali_dolgozat\\celloveszetWPF\\celloveszetWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "celloveszetWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswGwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T16:49:16.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
